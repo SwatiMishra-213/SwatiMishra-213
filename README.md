@@ -33,18 +33,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwatiMishra-213&theme=tokyonight&hide_border=false" width="600"/>
 </p>
 
-
-
 ---
 
 ## 🐍 GitHub Contribution Snake
 
-
-
 <p align="center">
-  <img src="https://github.com/SwatiMishra-213/SwatiMishra-213/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake Dark" width="600"/>
+  <img src="https://github.com/Shubham-01-gif/SwatiMishra-213/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake Dark" />
 </p>
-
 
 ---
 
