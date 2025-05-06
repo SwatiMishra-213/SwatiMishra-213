@@ -37,9 +37,9 @@
 
 ## 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/Shubham-01-gif/SwatiMishra-213/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake Dark" />
-</p>
+ <p align="center">
+   <img src="https://github.com/SwatiMishra-213/SwatiMishra-213/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake Dark" />
+ </p>
 
 ---
 
