@@ -60,6 +60,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwatiMishra-213&layout=compact&theme=github_dark" width="400" />
 </p>
 
+---
+
+## 🔥 GitHub Streak
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwatiMishra-213&theme=github-dark-blue" width="600" />
 </p>
@@ -69,7 +73,7 @@
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/SwatiMishra-213/SwatiMishra-213/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="600" />
+  <img src="https://raw.githubusercontent.com/SwatiMishra-213/SwatiMishra-213/output/github-contribution-grid-snake.svg" alt="snake animation" width="600" />
 </p>
 
 ---
