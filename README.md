@@ -62,7 +62,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Streaks
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwatiMishra-213&theme=github-dark-blue" width="600" />
