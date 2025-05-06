@@ -7,14 +7,31 @@
 
 ---
 
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwatiMishra-213&show_icons=true&theme=github_dark" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwatiMishra-213&layout=compact&theme=github_dark" width="400" />
+</p>
+
+---
+
+## 🔥 GitHub Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwatiMishra-213&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="600" />
+</p>
+
+---
+
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE Student at **Galgotias University (2022–2026)**
-- 👩‍💻 Currently working on a **Shopping App Clone** and a **Fitness Tracking App (Fit Connect)**
-- 🌱 Exploring: **Android/iOS Development**, **Cybersecurity**, **Cloud**, and **Data Structures**
-- 🧠 Familiar with: **Java, Python, C++, SQL, HTML, CSS, JavaScript**
-- ✨ Mentor at **GirlScript Summer of Code 2024 (GSSoC)**
-- 📫 Reach me at: **swmishra020@gmail.com**
+- 🎓 B.Tech CSE Student at Galgotias University (2022–2026)
+- 👩‍💻 Currently working on a Shopping App Clone and a Fitness Tracking App (Fit Connect)
+- 🌱 Exploring: Android/iOS Development, **Cybersecurity, **Cloud, and **Data Structures
+- 🧠 Familiar with: Java, Python, C++, SQL, HTML, CSS, JavaScript
+- ✨ Mentor at GirlScript Summer of Code 2024 (GSSoC)
+- 📫 Reach me at: swmishra020@gmail.com
 
 ---
 
@@ -49,31 +66,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwatiMishra-213&show_icons=true&theme=github_dark" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwatiMishra-213&layout=compact&theme=github_dark" width="400" />
-</p>
-
----
-
-## 🔥 GitHub Streaks
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwatiMishra-213&theme=github-dark-blue" width="600" />
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SwatiMishra-213/SwatiMishra-213/output/github-contribution-grid-snake.svg" alt="snake animation" width="600" />
 </p>
 
 ---
