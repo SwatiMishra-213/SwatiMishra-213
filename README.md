@@ -29,8 +29,16 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SwatiMishra-213&theme=tokyonight&hide_border=false" width="600" alt="GitHub Streak"/>
+  <a href="https://github.com/SwatiMishra-213">
+    <img 
+      src="https://streak-stats.demolab.com?user=SwatiMishra-213&theme=tokyonight&hide_border=false"
+      alt="Swati Mishra's GitHub Streak"
+      width="600"
+      onerror="this.onerror=null; this.src='https://github-readme-streak-stats.herokuapp.com/?user=SwatiMishra-213&theme=tokyonight';"
+    />
+  </a>
 </p>
+
 
 ---
 
